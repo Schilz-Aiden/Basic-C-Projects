@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\PolymorphismAssignment.exe.config
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\PolymorphismAssignment.exe
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\PolymorphismAssignment.pdb
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\PolymorphismAssignment.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\PolymorphismAssignment.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\PolymorphismAssignment.exe
-C:\Users\PC\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\PolymorphismAssignment.pdb
