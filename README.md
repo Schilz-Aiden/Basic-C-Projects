@@ -16,7 +16,7 @@ Keeps track of player score and balance
 
 Technologies Used: C#
 
-2. [Car Insurance Calculator](./CarInsurance/)
+2. [Car Insurance Calculator](https://github.com/Schilz-Aiden/Basic-C-Projects/tree/master)
 
 Description:
 A C# console application that calculates insurance premiums based on user input, including age, car type, driving history, and coverage level. This project demonstrates my ability to handle user input, apply conditional logic, and work with real-world scenarios.
